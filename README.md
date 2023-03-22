@@ -30,7 +30,7 @@ pip install transformers bs4 requests csv
 ```
 ### Executing program
 
-* Run the stock_scraper.py file.
+* Run the scraper.py file.
 * Enter a stock ticker when prompted.
 * The program will search for news articles about the selected stock, summarize them, analyze them for sentiment, and export the results to a CSV file named "summary.csv"
 * Open the csv file for the results of the selected stock
